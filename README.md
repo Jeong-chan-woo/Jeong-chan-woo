@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **Jeong-chan-woo/Jeong-chan-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 이름: 정찬우
+### 학교: 세종대학교
+### 전공: 데이터사이언스
+### 부전공: 응용통계
